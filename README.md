@@ -29,9 +29,15 @@ I'm Rushabh Nilesh Kothari, a passionate Senior Software Engineer with over 4 ye
 - **Libraries/Frameworks:** Django, Qt, OpenCV, Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, scikit-learn, Scipy, TensorFlow
 - **Skills:** Agile, JUnit, Mockito, Unit Testing, Micro-services, CI/CD, SCRUM, DevOps, Jenkins, Kanban, Kubernetes
 
-- ### 📊 GitHub Stats:
-![Rushabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushabhk04&show_icons=true&theme=radical)
+### 📊 GitHub Stats:
 
+![Rushabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushabhk04&show_icons=true&theme=great-gatsby)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rushabhk04&theme=great-gatsby)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhk04&layout=compact&theme=great-gatsby)
+
+---
 
 ### Experience
 - **Full Stack Developer** at Institute for Child Development, Binghamton, NY
