@@ -29,7 +29,7 @@ I'm Rushabh Nilesh Kothari, a passionate Senior Software Engineer with over 4 ye
 
 ### Experience
 - **Full Stack Developer** at Institute for Child Development, Binghamton, NY
-  - Part-time (July 2023 - Present)
+  - Part-time (July 2023 - May 2024)
   - Built and led a team to develop a high-performance staff portal, achieving a 70% performance boost over WordPress.
   - Developed a QR Barcode scanner inventory app, achieving 40% faster image processing via caching and multi-threading.
 
