@@ -20,12 +20,18 @@ I'm Rushabh Nilesh Kothari, a passionate Senior Software Engineer with over 4 ye
 - LinkedIn: [linkedin.com/in/rushabhk09](https://www.linkedin.com/in/rushabhk09)
 - GitHub: [github.com/rushabhk04](https://www.github.com/rushabhk04)
 
-### Technical Skills
-- **Languages:** Java, Go, Python, C++, C, JavaScript, TypeScript, JSON, HTML, CSS
+### 💻 Tech Stack:
+- **Languages:** Java, Go, Python, C++, C, JavaScript, TypeScript, JSON, HTML, CSS, Dart
 - **Backend:** Node.js, RESTful APIs, Spring Boot, Hibernate, Express.js, NoSQL (MongoDB, Firebase), GraphQL, SQL
-- **Frontend:** React.js, Angular.js, Bootstrap, Vue.js, jQuery
-- **Tools:** AWS, Docker, Rest API, PostgreSQL, Postman, GitHub, XCode, Git, Linux, Jira, Azure, Unix
+- **Frontend:** React.js, Angular.js, Bootstrap, Vue.js, jQuery, Flutter, HTML5
+- **Tools:** AWS, Docker, Rest API, PostgreSQL, Postman, GitHub, XCode, Git, Linux, Jira, Azure, Unix, Anaconda, Github Pages, Heroku, NPM, Adobe Lightroom
+- **Databases:** MongoDB, MySQL, SQLite
+- **Libraries/Frameworks:** Django, Qt, OpenCV, Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, scikit-learn, Scipy, TensorFlow
 - **Skills:** Agile, JUnit, Mockito, Unit Testing, Micro-services, CI/CD, SCRUM, DevOps, Jenkins, Kanban, Kubernetes
+
+- ### 📊 GitHub Stats:
+![Rushabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushabhk04&show_icons=true&theme=radical)
+
 
 ### Experience
 - **Full Stack Developer** at Institute for Child Development, Binghamton, NY
