@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rushabh Nilesh Kothari, a passionate Senior Software Engineer with over 4 years of expertise in Java-based development, React, SpringBoot, and ML/AI analytics. I have successfully delivered high-performance solutions for clients across the US, Europe, and Australia. 
+I'm Rushabh Nilesh Kothari, a passionate Senior Software Engineer with over 6 years of expertise in Java-based development, React, SpringBoot, and ML/AI analytics. I have successfully delivered high-performance solutions for clients across the US, Europe, and Australia. 
 
 ### 🌱 I’m currently learning
 - AWS Certified Solution Architect certification
@@ -40,7 +40,7 @@ I'm Rushabh Nilesh Kothari, a passionate Senior Software Engineer with over 4 ye
 ---
 
 ### Experience
-- **Full Stack Developer** at Institute for Child Development, Binghamton, NY
+- **Software Developer** at THE RF at SUNY Binghamton - Institute for Child Development, Binghamton, NY
   - Part-time (July 2023 - May 2024)
   - Built and led a team to develop a high-performance staff portal, achieving a 70% performance boost over WordPress.
   - Developed a QR Barcode scanner inventory app, achieving 40% faster image processing via caching and multi-threading.
@@ -60,9 +60,9 @@ I'm Rushabh Nilesh Kothari, a passionate Senior Software Engineer with over 4 ye
 
 ### Education
 - **State University of New York at Binghamton**, Binghamton, NY
-  - Master in Science - Computer Science (August 2022 - May 2024)
+  - Master in Science - Computer Science (GPA - 3.71/4.00) (August 2022 - May 2024)
   - Focus: Data Structures and Algorithms, DBMS, Design Pattern-Java
 
 - **KJ Somaiya Institute of Engineering and Information Technology**, Mumbai, India
-  - Bachelor's in Electronics and Telecommunication (August 2014 - July 2018)
+  - Bachelor's in Electronics and Telecommunication (GPA - 3.81/4.00) (August 2014 - July 2018)
   - Focus: CCNA Routing & Switching (BGP, SD-WAN, IPSec)
