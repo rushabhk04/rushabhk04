@@ -37,6 +37,9 @@ I'm Rushabh Nilesh Kothari, a passionate Senior Software Engineer with over 6 ye
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhk04&layout=compact&theme=great-gatsby)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=rushabhk04&theme=slateorange&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhk04&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 
 ### Experience
