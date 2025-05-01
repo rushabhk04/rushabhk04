@@ -39,21 +39,21 @@ I'm Rushabh Nilesh Kothari, a passionate Senior Software Engineer with over 6 ye
 ---
 
 ### Experience
-- **Software Developer** at THE RF at SUNY Binghamton - Institute for Child Development, Binghamton, NY
-  - Part-time (July 2023 - May 2024)
+- **Senior Software Engineer** at THE RF at SUNY Binghamton - Institute for Child Development, Binghamton, NY
+  - Full-time (July 2023 - May 2024)
   - Built and led a team to develop a high-performance staff portal, achieving a 70% performance boost over WordPress.
   - Developed a QR Barcode scanner inventory app, achieving 40% faster image processing via caching and multi-threading.
 
-- **Software Development Engineer Intern** at KeeperAI Inc, Manhattan, NY
-  - Full-Time (August 2023 - December 2023)
+- **Software Development Engineer Intern** at KeeperAI Inc (Start-Up), Manhattan, NY
+  - Full-Time Internship (August 2023 - December 2023)
   - Implemented Node.js microservices on Firebase Cloud Functions, handling 1500+ daily events.
   - Set up a chatbot using Microsoft Bot Framework, increasing user retention by 14%.
 
-- **Senior Software Engineer** at Accenture Solutions, Mumbai, MH
+- **Senior Software Engineer** at Accenture Solutions, Mumbai, India
   - Full-Time (April 2022 - July 2022)
   - Optimized SAP Cloud Platform Integration (CPI) based legacy code, enriching system metrics by 30%.
 
-- **Senior Software Engineer** at Infosys Limited, Pune, MH
+- **Senior Software Engineer** at Infosys Limited, Pune, India
   - Full-Time (October 2018 - April 2022)
   - Spearheaded technical leadership for large-scale projects, reducing deployment time by 8% and saving clients $1.2 million.
 
